@@ -42,7 +42,8 @@
 .banner {
     display: flex;
     justify-content: space-between;
-    margin: 50px 150px;
+    margin: 0px 150px;
+    padding: 50px;
 }
 
 .btn:hover {
@@ -125,4 +126,38 @@
     justify-content: center;
     gap: 50px;
     margin: 30px 150px 130px 150px;
+}
+
+.star{
+    width: 20px;
+    height: 20px;
+}
+
+.five{
+    margin-bottom: 10px;
+    margin-top: 100px;
+    /* margin-left: 600px; */
+}
+
+.lekha{
+    margin-top: 10px;
+}
+
+.asdf{
+    display: flex;
+}
+.nd{
+    margin-top: 8px;
+}
+.lekha, .love, .asdf{
+    /* margin-left: 600px; */
+}
+
+.say{
+    margin-top: 200px;
+}
+
+.review{
+    display: flex;
+    justify-content: space-evenly;
 }
