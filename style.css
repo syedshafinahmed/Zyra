@@ -74,6 +74,10 @@
     margin: 300px 160px;
 }
 
+.seeit{
+    margin-top: 60px;
+}
+
 .explore {
     margin-top: 30px;
     margin-bottom: 30px;
@@ -120,5 +124,5 @@
     display: flex;
     justify-content: center;
     gap: 50px;
-    margin: 30px 150px 30px 150px;
+    margin: 30px 150px 130px 150px;
 }
