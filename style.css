@@ -68,19 +68,50 @@
     border-radius: 48px;
 }
 
-.action{
+.action {
     display: flex;
     justify-content: space-between;
     margin: 300px 160px;
 }
 
-.explore{
+.explore {
     margin-top: 30px;
     margin-bottom: 30px;
 }
 
-.three{
+.three {
     display: flex;
     justify-content: space-evenly;
     margin: 40px;
+}
+
+.getintouch {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 300px;
+    gap: 30px;
+}
+
+.form input[type="text"],
+.form input[type="email"] {
+    width: 497px;
+    height: 70px;
+    border: none;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.form textarea{
+    border: none;
+    margin-top: 15px;
+}
+
+.touch{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 300px;
+}
+
+.in{
+    margin-top: 105px;
 }
