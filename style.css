@@ -78,3 +78,9 @@
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+.three{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px;
+}
