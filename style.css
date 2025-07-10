@@ -101,17 +101,24 @@
     margin-bottom: 15px;
 }
 
-.form textarea{
+.form textarea {
     border: none;
     margin-top: 15px;
 }
 
-.touch{
+.touch {
     width: 100%;
     margin-top: 20px;
-    margin-bottom: 300px;
+    margin-bottom: 200px;
 }
 
-.in{
+.in {
     margin-top: 105px;
+}
+
+.footer2{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 30px 150px 30px 150px;
 }
