@@ -60,6 +60,8 @@
     background-image: url(Assets/Hero-bg.png);
     background-size: cover;
     margin: 0%;
+    padding-bottom: 200px;
+    background-color: #ccccfd;
 }
 
 .pic {
@@ -72,10 +74,12 @@
 .action {
     display: flex;
     justify-content: space-between;
-    margin: 300px 160px;
+    margin: 0px 160px 300px 160px;
+
+    padding-top: 200px;
 }
 
-.seeit{
+.seeit {
     margin-top: 60px;
 }
 
@@ -90,11 +94,11 @@
     margin: 40px;
 }
 
-.user{
+.user {
     background-color: #bbb9fa;
     border-radius: 24px;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 90px;
+    margin-right: 90px;
     /* margin-top: 100px;
     margin-bottom: 100px; */
     padding: 80px;
@@ -114,11 +118,13 @@
     border: none;
     margin-top: 15px;
     margin-bottom: 15px;
+    border-radius: 10px
 }
 
 .form textarea {
     border: none;
     margin-top: 15px;
+    border-radius: 10px;
 }
 
 .touch {
@@ -131,51 +137,65 @@
     margin-top: 105px;
 }
 
-.footer2{
+.footer1 {
+    padding-top: 200px;
+}
+
+.footer2 {
     display: flex;
     justify-content: center;
     gap: 50px;
     margin: 30px 150px 130px 150px;
 }
 
-.star{
+.star {
     width: 20px;
     height: 20px;
 }
 
-.five{
+.five {
     margin-bottom: 10px;
     margin-top: 30px;
     /* margin-left: 600px; */
 }
 
-.lekha{
+.lekha {
     margin-top: 10px;
 }
 
-.asdf{
+.asdf {
     display: flex;
 }
-.nd{
+
+.nd {
     margin-top: 8px;
 }
-.lekha, .love, .asdf{
+
+.lekha,
+.love,
+.asdf {
     /* margin-left: 600px; */
 }
 
-.say{
+.say {
     margin-top: 200px;
 }
 
-.box{
+.box {
     border: none;
     border-radius: 14px;
     padding: 20px;
     margin-top: 50px;
+    /* padding-left: 60px; */
+    padding-right: 60px;
     background-color: #d0cffa;
 }
 
-.review{
+.review {
     display: flex;
     justify-content: space-evenly;
+}
+
+.back {
+    background-color: #ccccfd;
 }
