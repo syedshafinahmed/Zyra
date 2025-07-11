@@ -90,6 +90,16 @@
     margin: 40px;
 }
 
+.user{
+    background-color: #bbb9fa;
+    border-radius: 24px;
+    margin-left: 40px;
+    margin-right: 40px;
+    /* margin-top: 100px;
+    margin-bottom: 100px; */
+    padding: 80px;
+}
+
 .getintouch {
     display: flex;
     justify-content: space-evenly;
